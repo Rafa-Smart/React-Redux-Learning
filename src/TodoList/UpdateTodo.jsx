@@ -14,7 +14,8 @@ export default function UpdateTodo() {
   // disini ktia pake cara ini karena kita menggunakan parameter
   const todo = useSelector((state) => {
     console.log(params.id);
-
+    console.log('ssss')
+    console.log('ssss')
     return getTodo(state, params.id);
   });
   const [name, setName] = useState(todo?.name || "");
