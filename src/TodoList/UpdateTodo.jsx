@@ -16,6 +16,8 @@ export default function UpdateTodo() {
     console.log(params.id);
     console.log('ssss')
     console.log('ssss')
+    console.log('ssss')
+    console.log('ssss')
     return getTodo(state, params.id);
   });
   const [name, setName] = useState(todo?.name || "");
