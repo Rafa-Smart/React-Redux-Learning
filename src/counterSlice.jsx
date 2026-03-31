@@ -81,6 +81,8 @@ export const counterSlice = createSlice({
 // besok tanya ketnapa kitaa kan mau akses fungsi yang aada didalam objek reducer, kenapa harus pake actions
 
 // test
+// test
+// test
 
 // ini harus di baca selalu 
 // https://chatgpt.com/c/694761cc-083c-8320-9030-836eca48aace
