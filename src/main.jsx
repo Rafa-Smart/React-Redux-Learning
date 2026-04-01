@@ -91,3 +91,4 @@ createRoot(document.getElementById("root")).render(
 // jadi state yang ada di redux ini pasti terintegrasi dengna reducer, jadi ketika kita ingin mengubah statenya
 // kita harus mengubahnya via reducernya
 // test
+// test
